@@ -10,7 +10,7 @@ constructor(){
   this.state={
     input: '',
     todos: [
-      {id: 0, title: "I'm a dummy note! Click the button to remove me!", done: false}
+      {id: 0, title: "Click the button to remove me!", done: false}
     ]
   }
   
